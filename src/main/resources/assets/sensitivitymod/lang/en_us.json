@@ -1,4 +1,6 @@
 {
-  "key.sensitivitymod.change_sensitivity": "Change Sensitivity",
-  "category.sensitivitymod": "Sensitivity Mod"
+  "key.sensitivitymod.open_gui": "Open Sensitivity GUI",
+  "category.sensitivitymod": "Sensitivity Mod",
+  "screen.sensitivitymod.title": "Mouse Sensitivity",
+  "screen.sensitivitymod.reset": "Reset 0.50"
 }
