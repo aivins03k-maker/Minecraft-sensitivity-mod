@@ -3,14 +3,10 @@
   "id": "sensitivitymod",
   "version": "${version}",
   "name": "Sensitivity Mod",
-  "description": "Change Minecraft mouse sensitivity with a configurable keybind.",
+  "description": "Change Minecraft mouse sensitivity quickly with a configurable keybind and GUI.",
   "authors": ["aivins03k"],
   "environment": "client",
-  "entrypoints": {
-    "client": [
-      "com.aivins03k.sensitivitymod.SensitivityModClient"
-    ]
-  },
+  "entrypoints": { "client": ["com.aivins03k.sensitivitymod.SensitivityModClient"] },
   "depends": {
     "fabricloader": ">=0.18.1",
     "minecraft": "~1.21.11",
